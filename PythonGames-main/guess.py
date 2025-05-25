@@ -8,7 +8,7 @@ print('Why Hello Stranger! What is your name?')
 myName=input()
 
 number=random.randint(1,20)
-print('Huh, '+ myName +', That is a werid name. Well ' +myName+ ' I will give you 5 tries to predict a number that i am thinking of, it is bewteen 1 and 20.')
+print('Huh, '+ myName +', That is a weird name. Well ' +myName+ ' I will give you 5 tries to predict a number that i am thinking of, it is bewteen 1 and 20.')
 
 for guessesTaken in range(5):
     print('What is the number? Think carefully.') #Four Spaces im front of "print"
