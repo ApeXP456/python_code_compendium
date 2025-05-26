@@ -1,4 +1,3 @@
-
 __version__ = 0
 import copy, random, sys, time
 
