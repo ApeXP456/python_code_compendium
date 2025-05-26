@@ -11,7 +11,7 @@ try:
         if indentIncreasing:
             indent = indent + 1
             if indent == 20:
-                indentIncreasing == False
+                indentIncreasing = False
         else:
             indent = indent - 1
             if indent == 0:
